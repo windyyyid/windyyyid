@@ -28,6 +28,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=windyyyid&theme=date_night" />
 </p>
 
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=windyyyid&theme=date_night" />
+</p>
+
 ------
 
 <p align="center">
