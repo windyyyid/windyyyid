@@ -31,11 +31,11 @@
 ------
 
 <p align="center">
- <img src="[https://spotify-github-profile.kittinanx.com/api/view?uid=31clwo7edqwwy7heid576bz6xuue&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true](https://spotify-github-profile.kittinanx.com/api/view?uid=31qbsyseiokxut534472bdoi4pq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)"/>
+ <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbsyseiokxut534472bdoi4pq4&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </p>
 
 <p align="center">
-  <img src="[https://spotify-recently-played-readme.vercel.app/api?user=31clwo7edqwwy7heid576bz6xuue&width=600&count=10](https://spotify-recently-played-readme.vercel.app/api?user=31qbsyseiokxut534472bdoi4pq4](https://spotify-recently-played-readme.vercel.app/api?user=31qbsyseiokxut534472bdoi4pq4)" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qbsyseiokxut534472bdoi4pq4" />
 </p>
 
 ------
